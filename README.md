@@ -1,6 +1,6 @@
 The main code is SentimentAnalysis.ipynb
 As the training is done on kaggle, and the notebook is designed to have a command line capibility , where we can easily fine tune the parameters, without 
-to look in the code everytime. Hence, in the notenotebook, it is first creating a directory "NustTitans" then it is writing two files:
+to look in the code everytime. Hence, in the notebook, it is first creating a directory "NustTitans" then it is writing two files:
 
 **1. Adaptive_pretraining.py**
   **Arguments**
